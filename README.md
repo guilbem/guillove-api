@@ -117,14 +117,15 @@ Acesse em: **[http://localhost:5173](http://localhost:5173)**
 
 ---
 
-## 💬 Conclusão
 
+## 💬 Conclusão
 
 O sistema visa oferecer uma experiência agradável aos usuários, sendo também uma vitrine de aplicação prática dos conhecimentos em desenvolvimento web moderno.
 
 ---
 
-## 💬 Autoria
-# Autor: Guilherme Guimarães
-# Desenvolvimento Web com React e Node.js
+
+## 💡 Autoria
+ Autor: Guilherme Guimarães
+ Desenvolvimento Web com React e Node.js
 
