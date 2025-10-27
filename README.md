@@ -127,5 +127,7 @@ O sistema visa oferecer uma experiência agradável aos usuários, sendo também
 
 ## 💡 Autoria
  Autor: Guilherme Guimarães
+ ---
  Desenvolvimento Web com React e Node.js
+ ---
 
